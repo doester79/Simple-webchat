@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "epxress": "^0.0.1-security",
+    "socket.io": "^4.7.1",
     "socketio": "^1.0.0"
   }
 }
